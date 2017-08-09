@@ -1,0 +1,18 @@
+{
+  "name": "karry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.Helloword.js",
+  "dependencies": {
+    "phantom": "^4.0.5",
+    "phantomjs": "^2.1.7",
+    "request": "^2.81.0",
+    "webpage": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
